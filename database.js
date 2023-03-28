@@ -2,7 +2,7 @@ const {Pool} = require("pg")
 
 const {PGUSER, PGHOST, PGDATABSE, PGPASSWORD, PGPORT} = process.env
 
-const piil = new Pool({
+const pool = new Pool({
     user: PGUSER,
     host: PGHOST,
     database:PGDATABSE,

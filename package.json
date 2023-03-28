@@ -9,7 +9,7 @@
   "description": "eine richtig tolle Repo, die ganz sicher funktioniert",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": 
+  "scripts": {
     "dev": "nodemon index.js"
   },
   "repository": {
