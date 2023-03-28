@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "name": "nodejspostgresql",
+  "description": "eine richtig tolle Repo, die ganz sicher funktioniert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaLena1337/NodeJSPostgreSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaLena1337/NodeJSPostgreSQL/issues"
+  },
+  "homepage": "https://github.com/AnnaLena1337/NodeJSPostgreSQL#readme"
+}
